@@ -2,6 +2,6 @@ package com.company;
 
 public class High_quality {
     public static void main(String[] args) {
-        System.out.println("Qualdiety content");
+        System.out.println("Qualdifety content");
     }
 }
